@@ -1,7 +1,9 @@
-# ayannagori.netlify.app
-This is a minimal website design I made while learning fundamentals about javascript events.
+# Bankist web design
 
+This is just a web design based on a bank(not real). I made this while learning a design course of html css and javascript. <br>
+It was a udemy course by jonas schmedtmann <br>
 
-See my projects or hire me from my website.
+This design have tabs, scroll events, pop-ups, slider and some more usual website things I learnt to make using javascript
 
-YOU CAN SEE ALL THOSE PROJECTS IN MY WEBSITE FOR EASE:- ayannagori.netlify.app
+Visit new react portfolio at https://ayannagori.netlify.app/
+New portfolio repo -- https://github.com/Ayannagori44/portfolio-react
